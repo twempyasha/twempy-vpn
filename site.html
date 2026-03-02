@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FREEpy | Доступен всем 💓</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0b0710;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px;
+            transition: background 0.4s ease;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body.light {
+            background: #f5f0fa;
+        }
+
+        /* Частицы */
+        .particle {
+            position: fixed;
+            width: 4px;
+            height: 4px;
+            background: #b380ff;
+            border-radius: 50%;
+            pointer-events: none;
+            opacity: 0.3;
+            animation: floatParticle 8s infinite linear;
+            z-index: 0;
+        }
+
+        @keyframes floatParticle {
+            0% {
+                transform: translateY(100vh) translateX(0);
+                opacity: 0;
+            }
+            10% { opacity: 0.3; }
+            90% { opacity: 0.3; }
+            100% {
+                transform: translateY(-100vh) translateX(100px);
+                opacity: 0;
+            }
+        }
+
+        /* Экраны */
+        #mainScreen, #choiceScreen {
+            width: 100%;
+            max-width: 500px;
+            position: relative;
+            z-index: 1;
+        }
+
+        #choiceScreen {
+            display: none;
+        }
+
+        /* Стекло */
+        .glass {
+            background: rgba(20, 10, 30, 0.3);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            border: 1px solid rgba(180, 130, 255, 0.2);
+            border-radius: 32px;
+            padding: 24px;
+            width: 100%;
+        }
+
+        body.light .glass {
+            background: rgba(255, 255, 255, 0.5);
+            border-color: rgba(139, 92, 246, 0.3);
+        }
+
+        /* Шапка */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 32px;
+        }
+
+        .logo h1 {
+            color: white;
+            font-size: 32px;
+            font-weight: 700;
+        }
+
+        .logo span {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 13px;
+        }
+
+        body.light .logo h1 { color: #1a1025; }
+        body.light .logo span { color: #3a2a4a; }
+
+        /* Кнопка темы */
+        .theme-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(180, 130, 255, 0.2);
+            border-radius: 30px;
+            padding: 8px 16px;
+            color: white;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .theme-btn:hover {
+            background: rgba(180, 130, 255, 0.2);
+            border-color: #b380ff;
+        }
+
+        body.light .theme-btn {
+            color: #1a1025;
+        }
+
+        /* Главная кнопка */
+        .main-btn {
+            width: 100%;
+            background: #b380ff;
+            border: none;
+            border-radius: 40px;
+            padding: 20px;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            cursor: pointer;
+            margin: 24px 0 32px 0;
+            box-shadow: 0 4px 20px rgba(180, 130, 255, 0.3);
+            transition: 0.2s;
+        }
+
+        .main-btn:hover {
+            transform: scale(1.02);
+            filter: brightness(1.1);
+        }
+
+        body.light .main-btn {
+            background: #8b5cf6;
+        }
+
+        /* Менеджеры */
+        .managers h3 {
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            opacity: 0.9;
+        }
+
+        body.light .managers h3 { color: #1a1025; }
+
+        .manager-icons {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 32px;
+            justify-content: center;
+        }
+
+        .manager {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            animation: wave 3s infinite ease-in-out;
+        }
+
+        /* Волны для иконок */
+        .manager:nth-child(1) { animation-delay: 0s; }
+        .manager:nth-child(2) { animation-delay: 0.4s; }
+        .manager:nth-child(3) { animation-delay: 0.8s; }
+
+        @keyframes wave {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-8px); }
+        }
+
+        .manager-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 28px;
+            overflow: hidden;
+            border: 2px solid rgba(180, 130, 255, 0.3);
+            background: #2a1a3a; /* фон на случай если иконка не загрузится */
+        }
+
+        .manager-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            opacity: 1 !important; /* чтобы не мигало */
+        }
+
+        .manager span {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        body.light .manager span { color: #3a2a4a; }
+
+        /* Маленькие кнопки */
+        .footer-btns {
+            display: flex;
+            gap: 12px;
+        }
+
+        .small-btn {
+            flex: 1;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(180, 130, 255, 0.2);
+            border-radius: 30px;
+            padding: 14px;
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: center;
+            transition: 0.2s;
+        }
+
+        .small-btn:hover {
+            background: rgba(180, 130, 255, 0.2);
+            border-color: #b380ff;
+            transform: translateY(-2px);
+        }
+
+        body.light .small-btn {
+            color: #1a1025;
+        }
+
+        /* Экран выбора */
+        .choice-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+
+        .back-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(180, 130, 255, 0.2);
+            border-radius: 30px;
+            padding: 10px 18px;
+            color: white;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .back-btn:hover {
+            background: rgba(180, 130, 255, 0.2);
+            border-color: #b380ff;
+            transform: translateX(-5px);
+        }
+
+        .choice-title {
+            color: white;
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        body.light .choice-title { color: #1a1025; }
+
+        /* Кнопки выбора */
+        .choice-item {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(180, 130, 255, 0.2);
+            border-radius: 40px;
+            padding: 20px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            transition: 0.2s;
+        }
+
+        .choice-item:hover {
+            border-color: #b380ff;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(180, 130, 255, 0.3);
+        }
+
+        .choice-icon {
+            width: 56px;
+            height: 56px;
+            background: #b380ff;
+            border-radius: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            color: white;
+        }
+
+        body.light .choice-icon {
+            background: #8b5cf6;
+        }
+
+        .choice-content h3 {
+            color: white;
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .choice-content p {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 13px;
+        }
+
+        body.light .choice-content h3 { color: #1a1025; }
+        body.light .choice-content p { color: #3a2a4a; }
+
+        /* Инструкция */
+        #manualInstruction {
+            margin-top: 20px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 24px;
+            padding: 20px;
+            display: none;
+        }
+
+        .instruction-step {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(180, 130, 255, 0.2);
+        }
+
+        .step-num {
+            width: 28px;
+            height: 28px;
+            background: #b380ff;
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 700;
+            font-size: 14px;
+        }
+
+        .step-text {
+            color: white;
+            font-size: 14px;
+        }
+
+        body.light .step-text { color: #1a1025; }
+
+        .config-link {
+            margin-top: 16px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 20px;
+            padding: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.8);
+            word-break: break-all;
+        }
+
+        .copy-btn {
+            background: #b380ff;
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: white;
+            font-weight: 600;
+            font-size: 12px;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: 0.2s;
+        }
+
+        .copy-btn:hover {
+            transform: scale(1.05);
+            filter: brightness(1.1);
+        }
+
+        body.light .copy-btn {
+            background: #8b5cf6;
+        }
+
+        /* Уведомление */
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: rgba(20, 10, 30, 0.8);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(180, 130, 255, 0.3);
+            border-radius: 40px;
+            padding: 12px 24px;
+            color: white;
+            font-weight: 600;
+            transition: transform 0.3s;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div id="mainScreen">
+        <div class="glass">
+            <div class="header">
+                <div>
+                    <h1 style="color: white; font-size: 32px;" id="logoMain">FREEpy</h1>
+                    <span style="color: rgba(255,255,255,0.6);" id="logoDesc">Доступен всем 💓</span>
+                </div>
+                <button class="theme-btn" onclick="toggleTheme()">🌓 тема</button>
+            </div>
+
+            <button class="main-btn" onclick="showChoice()">
+                ПОЛУЧИТЬ VPN
+            </button>
+
+            <div class="managers">
+                <h3>поддерживаемые прокси менеджеры</h3>
+                <div class="manager-icons">
+                    <div class="manager">
+                        <div class="manager-icon">
+                            <img src="https://play-lh.googleusercontent.com/VUONk0ZrO2TWm30K8J1k_Et5HLh3M6b1lihC_7BgVv-J1yZqALIWFYvggHudpTXpZw=w240-h480" 
+                                 alt="HAPP"
+                                 style="width: 100%; height: 100%; object-fit: cover; display: block; opacity: 1;">
+                        </div>
+                        <span>HAPP</span>
+                    </div>
+                    <div class="manager">
+                        <div class="manager-icon">
+                            <img src="https://play-lh.googleusercontent.com/LDJhuj2zQ_dRjJNn0cY88eI-0Z_n77s1v0REOHrZz4DcRZ3NQrCL9Sqvx9Aos1MF-g=w240-h480" 
+                                 alt="V2Ray"
+                                 style="width: 100%; height: 100%; object-fit: cover; display: block; opacity: 1;">
+                        </div>
+                        <span>V2Ray</span>
+                    </div>
+                    <div class="manager">
+                        <div class="manager-icon">
+                            <img src="https://play-lh.googleusercontent.com/OjN9OJa9LhyyS7Tvx5HJ8QoOqDxxwUtp9U38Iic9g5q_48P8Lq0iqKHe9jGXq3t0Gg=w240-h480" 
+                                 alt="SingBox"
+                                 style="width: 100%; height: 100%; object-fit: cover; display: block; opacity: 1;">
+                        </div>
+                        <span>SingBox</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-btns">
+                <a href="https://t.me/freevpnbytwempy" class="small-btn" target="_blank">📢 КАНАЛ</a>
+                <a href="https://t.me/twempy" class="small-btn" target="_blank">💬 ПОДДЕРЖКА</a>
+            </div>
+        </div>
+    </div>
+    <div id="choiceScreen">
+        <div class="glass">
+            <div class="choice-header">
+                <button class="back-btn" onclick="showMain()">← НАЗАД</button>
+                <span class="choice-title">выбери способ</span>
+            </div>
+
+            <div class="choice-item" onclick="showManual()">
+                <div class="choice-icon">🖐️</div>
+                <div class="choice-content">
+                    <h3>Ручная настройка</h3>
+                    <p>пошаговая инструкция</p>
+                </div>
+            </div>
+
+            <div class="choice-item" onclick="autoInstall()">
+                <div class="choice-icon">⚡</div>
+                <div class="choice-content">
+                    <h3>Автоустановка</h3>
+                    <p>в один клик</p>
+                </div>
+            </div>
+            <div id="manualInstruction">
+                <div class="instruction-step">
+                    <div class="step-num">1</div>
+                    <div class="step-text">Скачай HAPP из магазина</div>
+                </div>
+                <div class="instruction-step">
+                    <div class="step-num">2</div>
+                    <div class="step-text">Открой, нажми +</div>
+                </div>
+                <div class="instruction-step">
+                    <div class="step-num">3</div>
+                    <div class="step-text">Выбери "Импорт из буфера"</div>
+                </div>
+                <div class="instruction-step">
+                    <div class="step-num">4</div>
+                    <div class="step-text">Вставь ссылку и готово</div>
+                </div>
+                
+                <div class="config-link">
+                    <span style="flex: 1;">https://raw.githubusercontent.com/twempyasha/twempy-vpn/main/onxid.txt</span>
+                    <button class="copy-btn" onclick="copyConfig(event)">КОПИРОВАТЬ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="toast" class="toast"></div>
+
+    <script>
+        // Создание частиц
+        (function() {
+            for (let i = 0; i < 15; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 10 + 's';
+                particle.style.animationDuration = 8 + Math.random() * 7 + 's';
+                particle.style.background = i % 3 === 0 ? '#b380ff' : (i % 3 === 1 ? '#8b5cf6' : '#c084fc');
+                document.body.appendChild(particle);
+            }
+        })();
+
+        // Темизация
+        function toggleTheme() {
+            document.body.classList.toggle('light');
+            
+            const logoMain = document.getElementById('logoMain');
+            const logoDesc = document.getElementById('logoDesc');
+            
+            if (document.body.classList.contains('light')) {
+                logoMain.style.color = '#1a1025';
+                logoDesc.style.color = '#3a2a4a';
+            } else {
+                logoMain.style.color = 'white';
+                logoDesc.style.color = 'rgba(255,255,255,0.6)';
+            }
+            
+            showToast('✨ тема изменена');
+        }
+
+        // Показать главный экран
+        function showMain() {
+            document.getElementById('mainScreen').style.display = 'block';
+            document.getElementById('choiceScreen').style.display = 'none';
+            document.getElementById('manualInstruction').style.display = 'none';
+        }
+
+        // Показать экран выбора
+        function showChoice() {
+            document.getElementById('mainScreen').style.display = 'none';
+            document.getElementById('choiceScreen').style.display = 'block';
+        }
+
+        // Показать инструкцию
+        function showManual() {
+            const instruction = document.getElementById('manualInstruction');
+            if (instruction.style.display === 'none' || instruction.style.display === '') {
+                instruction.style.display = 'block';
+                showToast('📖 инструкция открыта');
+            } else {
+                instruction.style.display = 'none';
+            }
+        }
+        function autoInstall() {
+            showToast('🚀 запуск...');
+            setTimeout(() => {
+                window.location.href = 'https://lalalula96.github.io/v2raytun-redirect/?key=happ://add/https://raw.githubusercontent.com/twempyasha/twempy-vpn/main/onxid.txt';
+            }, 500);
+        }
+        function copyConfig(e) {
+            e.stopPropagation();
+            const url = 'https://raw.githubusercontent.com/twempyasha/twempy-vpn/main/onxid.txt';
+            
+            navigator.clipboard.writeText(url).then(() => {
+                showToast('✅ скопировано');
+            }).catch(() => {
+                const textarea = document.createElement('textarea');
+                textarea.value = url;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showToast('✅ скопировано');
+            });
+        }
+
+        // Уведомление
+        function showToast(text) {
+            const toast = document.getElementById('toast');
+            toast.textContent = text;
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 2000);
+        }
+
+        // Приветствие
+        window.addEventListener('load', function() {
+            showToast('💓 Доступен всем');
+        });
+    </script>
+</body>
+  </html>
