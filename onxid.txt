@@ -5,11 +5,3 @@
 #announce: 🌟 FREEpy — всегда бесплатный! 💓 Канал: @freevpnbytwempy | Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 | 🔃 Если сломалось — перезагрузи список
 #subscription-userinfo: upload=0; download=0; total=0; expire=2524608000
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#💓 Спасибо за поддержку
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои ⚠️
-
-vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@46.235.189.157:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия 1 / WhiteList
-vless://01638edd-ddd2-07d0-b437-48761495d07e@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия 2 / WhiteList
-vless://01638edd-ddd2-07d0-b437-48761495d07e@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия 3 / WhiteList
-vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия 4 / WhiteList
-vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@46.235.186.203:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Россия 5 / WhiteList
