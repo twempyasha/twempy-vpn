@@ -7,7 +7,7 @@
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои / ( Обходы ⬇️ )
 
-vless://21dbaefd-8677-4a09-8469-70490e01eb8a@144.31.63.7:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deout.funvideorus.net&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0#🇷🇺 1 Россия / FREE / WHITELIST
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.31.236:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0#%F0%9F%87%B7%F0%9F%87%BA🇷🇺 1 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 2 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@5.188.140.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 3 Россия / FREE / WHITELIST
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.103.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0#🇷🇺 4 Россия / FREE / WHITELIST
