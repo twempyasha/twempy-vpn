@@ -5,5 +5,4 @@
 #announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v1.6
 #subscription-userinfo: upload=0; download=0; total=9223372036854775807; expire=2556057600
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Тех работы / (Обходы ⬇️ )
-
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Тех работы
