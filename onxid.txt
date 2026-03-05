@@ -7,6 +7,6 @@
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои / (Обходы ⬇️ )
 
-vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 1 / Россия / WhiteList / FREE
-vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 2 / Россия / WhiteList / FREE
-vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@37.139.33.223:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA🇷🇺 3 / Россия / WhiteList / FREE
+vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0061|
+vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0062|
+vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@37.139.33.223:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0063|
