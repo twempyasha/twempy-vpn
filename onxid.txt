@@ -2,7 +2,7 @@
 #profile-title: 🏳️ FREEpy VPN
 #profile-web-page-url: https://t.me/freevpnbytwempy
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v2.4b26
+#announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v2.5b26
 #subscription-userinfo: upload=0; download=0; total=0; expire=2524608000
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои / ( Обходы ⬇️ )
@@ -10,7 +10,6 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 1 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.189.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 2 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@146.185.240.88:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 3 Россия / FREE / WHITELIST
-vless://edc9daf2-fc2e-435b-a87b-8427020b1d40@217.16.25.94:8443?flow=xtls-rprx-
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@5.188.140.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 4 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 5 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 6 Россия / FREE / WHITELIST
