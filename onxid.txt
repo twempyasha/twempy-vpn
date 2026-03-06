@@ -5,8 +5,9 @@
 #announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v2.5/1b26
 #subscription-userinfo: upload=0; download=0; total=0; expire=2524608000
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои / ( Обходы ⬇️ )
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои
 
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇷🇺 Россия обходы ⬇️
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 1 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.189.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 2 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@146.185.240.88:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 3 Россия / FREE / WHITELIST
@@ -17,3 +18,11 @@ vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.145:443?flow=xtls-rprx-
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@5.188.140.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 8 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.189.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 9 Россия / FREE / WHITELIST
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.189.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 10 Россия / FREE / WHITELIST
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇳🇱 Нидерланды обходы ⬇️
+vless://43a32eb9-c8eb-4caf-a2f1-c90cf7241212@185.112.59.134:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&spx=%2F#🇳🇱 1 Нидерланды / FREE / WhiteList
+vless://5ebc4b5b-6c99-4fdb-bbac-28ea79471444@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 2 Нидерланды / FREE / WhiteList
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇩🇪 Германия обходы ⬇️
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&spx=%2F#🇩🇪 1 Германия / FREE / WhiteList
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F#🇩🇪 2 Германия / FREE / WhiteList
