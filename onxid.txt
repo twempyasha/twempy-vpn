@@ -2,7 +2,7 @@
 #profile-title: 🏳️ FREEpy VPN
 #profile-web-page-url: https://t.me/freevpnbytwempy
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v3.0/0b26 fixed3
+#announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freevpnbytwempy / Создатель: @twempy 🚀 Сделано с любовью твемпяша 💝 / 🔃 Если сломалось — перезагрузи список / v3.0/1b26 fixed3
 #subscription-userinfo: upload=0; download=0; total=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#⚠️ Возможны сбои обходов
@@ -22,6 +22,6 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@109.120.191.31:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪⚡ 1  Германия / free / whitelist
 vless://b3da836c-d6d8-03e8-ba4a-0a7a54491924@109.120.191.31:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪⚡ 2  Германия / free / whitelist
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇺🇲🔐 США обходы
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.26.122:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇺🇲⚡ 1  сша / free / whitelist
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇺🇲⚡ 2  сша / free / whitelist
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇺🇸🔐 США обходы
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.26.122:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇺🇸⚡ 1  сша / free / whitelist
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇺🇸⚡ 2  сша / free / whitelist
