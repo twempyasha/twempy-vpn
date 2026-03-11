@@ -2,10 +2,10 @@
 #profile-title: 🏳️ FREEpy WhiteList
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓 Канал: @freepyvpn 🚀 Сделано с любовью твемпяша 💝 / ⚙️ v35g2/2b26 • 👤 by @twempy
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v35g2/3b26 • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇷🇺🏳️FREEPY • ОБХОДЫ
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=none#🇷🇺🏳️ FREEPY • ОБХОДЫ
 
 vless://8884ad85-0a42-07d0-8468-42b2b8e69df2@109.120.188.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺⚡ 1 FREEPY • ОБХОД / @freepyvpn
 vless://d6a8b5fa-1ce6-07d0-8f98-1bbb5d182539@109.120.188.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺⚡ 2 FREEPY • ОБХОД / @freepyvpn
