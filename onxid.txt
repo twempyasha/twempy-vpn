@@ -1,8 +1,8 @@
 #profile-update-interval: 1
-#profile-title: 🏳️ FREEpy WhiteList
+#profile-title: 🏳️ FREEpy WLT
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v41g2/5b26 • 👤 by @twempy • 👥 tgc @freepyvpn
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v42g2/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 
 vless://4fd2d5f6-d417-07d0-9331-e20afde2fcd2@109.120.188.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺⚡ 1-9 FREEPY • 🏳️🛜 / @freepyvpn
