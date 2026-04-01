@@ -2,7 +2,7 @@
 #profile-title: 🏳️ FREEpy VPN
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v102g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v103g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#┌⚡🌐 Обычные ВПН 
@@ -13,7 +13,7 @@ vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 4-5 Локация • 🏳️🛜 / @freepyvpn
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 5-5 Локация • 🏳️🛜 / @freepyvpn
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⚡🌐 Обходы ВПН
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⚡🏳️ Обходы ВПН
 
 vless://19da893b-e19b-4a0c-b537-f79813f30cce@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 1-9 Обход • 🏳️🛜 / @freepyvpn
 vless://99187cf3-9557-4358-8f78-e23c4a866f16@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 2-9 Обход • 🏳️🛜 / @freepyvpn
