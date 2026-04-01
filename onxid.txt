@@ -2,8 +2,7 @@
 #profile-title: ⚡ FREEPYNET.WHITELIST
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#description: 
-: 🏳️✨ FREEpy — всегда бесплатный!
+#description: 🏳️✨ FREEpy — всегда бесплатный!
 : 🌐 Мы за свободный интернет
 : 🤖 Наш бот в telegram • @freepyvpnbot
 : 📨 Мы в telegram • @freepyvpn
@@ -31,5 +30,5 @@ vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@95.163.182.131:443?encryption=none&
 vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.131:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#🇷🇺├⚡ 8-9 Обход • 🏳️🛜 / @freepyvpn
 vless://9b691795-7bbd-45a8-bca1-10684c064e60@95.163.182.131:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#🇷🇺├⚡ 9-9 Обход • 🏳️🛜 / @freepyvpn
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⚙️ Версия подписки • v120g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⚙️ Версия подписки • v121g4/5b26
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└❤️ С любовью • @twempy
