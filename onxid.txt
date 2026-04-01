@@ -2,25 +2,27 @@
 #profile-title: 🏳️ FREEpy WLT
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v100g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v101g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚡🌐 Обычные ВПН 
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#┌⚡🌐 Обычные ВПН 
 
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@5.182.207.0:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪⚡ 1-5 FREEPY • 🌐🛜 / @freepyvpn
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪⚡ 2-5 FREEPY • 🌐🛜 / @freepyvpn
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱⚡ 3-5 FREEPY • 🌐🛜 / @freepyvpn
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬⚡ 4-5 FREEPY • 🌐🛜 / @freepyvpn
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦⚡ 5-5 FREEPY • 🌐🛜 / @freepyvpn
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@5.182.207.0:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-5 Германия • 🏳️🛜 / @freepyvpn
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 2-5 Германия • 🏳️🛜 / @freepyvpn
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 3-5 Нидерланды • 🏳️🛜 / @freepyvpn
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 4-5 Сингапур • 🏳️🛜 / @freepyvpn
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 5-5 Канада • 🏳️🛜 / @freepyvpn
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚡🌐 Обходы ВПН
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⚡🌐 Обходы ВПН
 
-vless://19da893b-e19b-4a0c-b537-f79813f30cce@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 1-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://99187cf3-9557-4358-8f78-e23c4a866f16@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 2-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://4b07f679-1fc8-4184-92c9-b87a23d2e700@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 3-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://15af99aa-e196-4851-9048-f9507e6ca6e7@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 4-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://9a8a86d7-293c-4d8a-bf3e-5c3ac205f86f@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 5-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://4cc59014-e36b-4d14-8071-318d1e87e6af@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 6-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://05498b9a-f05f-4d1f-8798-802f89b2bc4e@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 7-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://8a75f5fd-95d8-4d2a-a6a9-a32c69898b43@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 8-9 FREEPY • 🏳️🛜 / @freepyvpn
-vless://867ce143-0768-43ae-b5a5-c7ae29f4dcdf@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺⚡ 9-9 FREEPY • 🏳️🛜 / @freepyvpn
+vless://19da893b-e19b-4a0c-b537-f79813f30cce@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 1-9 Обход • 🏳️🛜 / @freepyvpn
+vless://99187cf3-9557-4358-8f78-e23c4a866f16@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 2-9 Обход • 🏳️🛜 / @freepyvpn
+vless://4b07f679-1fc8-4184-92c9-b87a23d2e700@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 3-9 Обход • 🏳️🛜 / @freepyvpn
+vless://15af99aa-e196-4851-9048-f9507e6ca6e7@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 4-9 Обход • 🏳️🛜 / @freepyvpn
+vless://9a8a86d7-293c-4d8a-bf3e-5c3ac205f86f@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 5-9 Обход • 🏳️🛜 / @freepyvpn
+vless://4cc59014-e36b-4d14-8071-318d1e87e6af@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 6-9 Обход • 🏳️🛜 / @freepyvpn
+vless://05498b9a-f05f-4d1f-8798-802f89b2bc4e@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 7-9 Обход • 🏳️🛜 / @freepyvpn
+vless://8a75f5fd-95d8-4d2a-a6a9-a32c69898b43@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 8-9 Обход • 🏳️🛜 / @freepyvpn
+vless://867ce143-0768-43ae-b5a5-c7ae29f4dcdf@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺├⚡ 9-9 Обход • 🏳️🛜 / @freepyvpn
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#└❤️ С любовью @twempy
