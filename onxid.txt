@@ -2,8 +2,9 @@
 #profile-title: 🏳️ FREEpy VPN
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v107g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v108g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
+#hide-settings: 1
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴┌⚡🌐 Обычные ВПН 
 
