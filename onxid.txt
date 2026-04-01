@@ -3,7 +3,7 @@
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
 #announce: 🏳️✨ FREEpy — всегда бесплатный! / 🌐 Мы за свободный интернет / 🤖 Наш бот в telegram • @freepyvpnbot / 📨 Мы в telegram • @freepyvpn
-#subscription-userinfo: upload=0; download=0; total=999999999999999; expire=4102444800
+#subscription-userinfo: upload=0; download=0; total=9223372036854775807; expire=2556057600
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴┌⚡ • 🌐 Обычные / ВПН 
 
