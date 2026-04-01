@@ -5,7 +5,7 @@
 #announce: 🏳️✨ FREEpy — всегда бесплатный! / 🌐 Мы за свободный интернет / 🤖 Наш бот в telegram • @freepyvpnbot / 📨 Мы в telegram • @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=999999999999999; expire=2556057600
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇲🇦┌㊗️ FREEPY • PRIME / BETA
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴㊗️ FREEPY • PRIME / BETA • 💠⚡
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⬇️ Обычный / ВПН • 🌐
 
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@5.182.207.0:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-5 • 🌐🛜 / FREEPY • ✨P
@@ -26,4 +26,4 @@ vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.171:443?encryption=none&
 vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.183.231:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🇷🇺├⚡ 8-9 • 🏳️🛜 / FREEPY • ✨P
 vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.183.231:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🇷🇺├⚡ 9-9 • 🏳️🛜 / FREEPY • ✨P
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v132g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v133g4/5b26
