@@ -2,7 +2,7 @@
 #profile-title: 🏳️ FREEpy WLT
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v69g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
+#announce: 🌟 FREEpy - всегда бесплатный! 💓🚀 Сделано с любовью твемпяша 💝 / ⚙️ v100g3/5b26 WLT • 👤 by @twempy • 👥 tgc @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚡🌐 Обычные ВПН 
