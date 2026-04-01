@@ -2,9 +2,10 @@
 #profile-title: ⚡ FREEPYNET.WHITELIST
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-description: 🏳️✨ FREEpy — всегда бесплатный!
+#profile-description: 
+🏳️✨ FREEpy — всегда бесплатный!
 🌐 Мы за свободный интернет
-⚙️ Версия подписки • v117g3/5b26
+⚙️ Версия подписки • v118g3/5b26
 🤖 Наш бот в telegram • @freepyvpnbot
 📨 Мы в telegram • @freepyvpn
 ❤️ Сделано с любовью • @twempy
