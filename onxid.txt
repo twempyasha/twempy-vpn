@@ -4,9 +4,10 @@
 #support-url: https://t.me/twempy
 #announce: 🏳️✨ FREEpy — всегда бесплатный!
 🌐 Мы за свободный интернет
-❤️ Сделано с любовью @twempy
-⚙️ Версия подписки v112g3/5b26
-📨 Мы в telegram @freepyvpn
+⚙️ Версия подписки • v113g3/5b26
+🤖 Наш бот в telegram • @freepyvpnbot
+📨 Мы в telegram • @freepyvpn
+❤️ Сделано с любовью • @twempy
 #subscription-userinfo: upload=0; download=0; total=0
 #hide-settings: 1
 
