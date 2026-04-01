@@ -3,10 +3,10 @@
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
 #profile-description: 
-🏳️✨ FREEpy — всегда бесплатный!
-🌐 Мы за свободный интернет
-🤖 Наш бот в telegram • @freepyvpnbot
-📨 Мы в telegram • @freepyvpn
+: 🏳️✨ FREEpy — всегда бесплатный!
+: 🌐 Мы за свободный интернет
+: 🤖 Наш бот в telegram • @freepyvpnbot
+: 📨 Мы в telegram • @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=0
 #hide-settings: 1
 
