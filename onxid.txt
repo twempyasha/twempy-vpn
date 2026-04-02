@@ -22,8 +22,8 @@ vless://4aee5cc4-bbae-411e-93d4-eb6aace38ff9@109.69.218.48:443?encryption=none&s
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⬇️ Обходы / 🏳️
 
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-38.userapi.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&type=tcp#🇷🇺├⚡ 1-1 • 🏳️🛜 / FREEPY  • ✨
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&type=tcp#🇷🇺├⚡ 1-1 • 🏳️🛜 / FREEPY  • ✨
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-38.userapi.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&type=tcp#🇷🇺├⚡ 1-2 • 🏳️🛜 / FREEPY  • ✨
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&type=tcp#🇷🇺├⚡ 2-2 • 🏳️🛜 / FREEPY  • ✨
 
 security=reality&mode=gun&serviceName=
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v147g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v148g4/5b26
