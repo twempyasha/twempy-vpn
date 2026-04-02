@@ -1,16 +1,11 @@
 #profile-title: ⚡ FREEPYPRIME
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис онлайн
-🌐 Открытая сеть — наш выбор!
-🤖 Бот в TG: @freeprypnbotn
-📨 Наш канал в TG: @freepryprn
-#subscription-userinfo: upload=0; download=0; total=0
+#announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис / 🌐 Открытая сеть — наш выбор! / 🤖 Бот в TG: @freeprypnbotn / 📨 Наш канал в TG: @freepryprn / 🎟️ Подписка "FREEPY PRIME"
 #subscription-userinfo: upload=0; download=0; total=0
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🎟️ Подписка "FREEPY PRIME"
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#💽 Статус сервера "Активен"
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚙️ v162g5/6b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚙️ v163g5/6b26
 
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪⚡ ГЕРМАНИЯ V2 
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱⚡ НИДЕРЛАНДЫ V2
