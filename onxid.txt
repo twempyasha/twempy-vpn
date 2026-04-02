@@ -6,14 +6,14 @@
 #subscription-userinfo: upload=0; download=0; total=999999999999999
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⬇️ Обычный VPN / 🌐
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├1️⃣ Модуль
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Модуль 1
 
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-8 • 🌐🛜 / FREEPY • ✨
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 2-8 • 🌐🛜 / FREEPY • ✨
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 3-8 • 🌐🛜 / FREEPY • ✨
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 4-8 • 🌐🛜 / FREEPY • ✨
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├2️⃣ Модуль
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Модуль 2 
 
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&type=tcp&flow=#🇸🇪├⚡ 5-8 • 🌐🛜 / FREEPY • ✨
 vless://4aee5cc4-bbae-0006-93d4-eb6aace38ff9@cloud.quattro-tech.ru:443?encryption=none&security=reality&sni=cloud.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇪🇸├⚡ 6-8 • 🌐🛜 / FREEPY • ✨
@@ -25,4 +25,4 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#�
 vless://50e06d85-75b2-4b9b-9f0a-f2ae51cf912d@51.250.109.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=XSyv5Fi_gW72GREh-PyGjfNfN4_Zyuuq6A-klKEU2Hc&type=tcp#🇷🇺├⚡ 1-1 • 🏳️🛜 / FREEPY  • ✨
 
 security=reality&mode=gun&serviceName=
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v144g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v145g4/5b26
