@@ -2,33 +2,30 @@
 #profile-title: ⚡ FREEPYPRIME
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
-#announce: ✨ FREEPY PRIME — мощнейший бесплатный сервер / 🌐 Открытая сеть — наш выбор / 🤖 Бот в TG: @freepyvpnbot / 📨 Наш канал в TG: @freepyvpn
+#announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис / 🌐 Открытая сеть — наш выбор / 🤖 Бот в TG: @freepyvpnbot / 📨 Наш канал в TG: @freepyvpn
 #subscription-userinfo: upload=0; download=0; total=999999999999999
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Обычный VPN / 🌐
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├1️⃣ Модуль
 
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@5.182.207.0:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-6 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 2-6 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 3-6 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 4-6 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 5-6 • 🌐🛜 / FREEPY • ✨
-vless://785f3bbc-0022-45b2-9ed7-3a77a2904868@51.250.117.71:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇫🇮├⚡ 6-6 • 🌐🛜 / FREEPY • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@5.182.207.0:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-10 • 🌐🛜 / FREEPY • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 2-10 • 🌐🛜 / FREEPY • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 3-10 • 🌐🛜 / FREEPY • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 4-10 • 🌐🛜 / FREEPY • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 5-10 • 🌐🛜 / FREEPY • ✨
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Вечный / 🏳️
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├2️⃣ Модуль
 
-vless://785f3bbc-0022-45b2-9ed7-3a77a2904868@51.250.117.71:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺├⚡ 1-1 • 🏳️🛜 / FREEPY  • ✨
+vless://785f3bbc-0022-45b2-9ed7-3a77a2904868@51.250.117.71:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇫🇮├⚡ 6-10 • 🌐🛜 / FREEPY • ✨
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&type=tcp&flow=#🇸🇪├⚡ 7-10 • 🌐🛜 / FREEPY • ✨
+vless://4aee5cc4-bbae-0006-93d4-eb6aace38ff9@cloud.quattro-tech.ru:443?encryption=none&security=reality&sni=cloud.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇪🇸├⚡ 8-10 • 🌐🛜 / FREEPY • ✨
+vless://4aee5cc4-bbae-411e-93d4-eb6aace38ff9@uk.quattro-tech.ru:443?encryption=none&security=reality&sni=uk.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇬🇧├⚡ 9-10 • 🌐🛜 / FREEPY • ✨
+vless://4aee5cc4-bbae-411e-93d4-eb6aace38ff9@109.69.218.48:443?encryption=none&security=reality&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇧🇪├⚡ 10-10 • 🌐🛜 / FREEPY • ✨
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Обходы / 🏳️
 
-vless://9b691795-7bbd-45a8-bca1-10684c064e60@37.139.32.45:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#🇷🇺├⚡ 1-9 • 🏳️🛜 / FREEPY  • ✨
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.182.221:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🇷🇺├⚡ 2-9 • 🏳️🛜 / FREEPY  • ✨
-vless://418ad4b9-d8be-447c-953d-e666fb154685@95.163.182.221:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🇷🇺├⚡ 3-9 • 🏳️🛜 / FREEPY  • ✨
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.221:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#🇷🇺├⚡ 4-9 • 🏳️🛜 / FREEPY  • ✨
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.182.221:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#🇷🇺├⚡ 5-9 • 🏳️🛜 / FREEPY  • ✨
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.182.221:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#🇷🇺├⚡ 6-9 • 🏳️🛜 / FREEPY  • ✨
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.182.221:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#🇷🇺├⚡ 7-9 • 🏳️🛜 / FREEPY  • ✨
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.131:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🇷🇺├⚡ 8-9 • 🏳️🛜 / FREEPY  • ✨
-vless://09b81314-7592-4ffb-9773-6351de8a7f74@95.163.182.131:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#🇷🇺├⚡ 9-9 • 🏳️🛜 / FREEPY  • ✨
+vless://785f3bbc-0022-45b2-9ed7-3a77a2904868@51.250.117.71:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺├⚡ 1-2 • 🏳️🛜 / FREEPY  • ✨
+vless://785f3bbc-0022-45b2-9ed7-3a77a2904868@217.16.29.44:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&type=tcp#🇷🇺├⚡ 2-2 • 🏳️🛜 / FREEPY  • ✨
 
 security=reality&mode=gun&serviceName=
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#└⚙️ v142g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#└⚙️ v143g4/5b26
