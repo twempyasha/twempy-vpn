@@ -9,16 +9,16 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#�
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Модуль 1
 
 vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪├⚡ 1-12 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 2-12 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 3-12 • 🌐🛜 / FREEPY • ✨
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 4-12 • 🌐🛜 / FREEPY • ✨
-vless://c134fa8a-2ebd-11f1-a235-af5f5c0e8917@jp1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#🇯🇵├⚡ 5-12 • 🌐🛜 / ЯПОНИЯ • ✨
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱├⚡ 2-12 • V2 / НИДЕРЛАНДЫ
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬├⚡ 3-12 • V2 / СИНГАПУР
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦├⚡ 4-12 • V2 / КАНАДА
+vless://c134fa8a-2ebd-11f1-a235-af5f5c0e8917@jp1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#🇯🇵├⚡ 5-12 • V2 / ЯПОНИЯ
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⬇️ Обходы / 🏳️
 
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 1-4 • 🌐🛜 / ОБХОД
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=x5.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 2-4 • 🌐🛜 / ОБХОД
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 3-4 • 🌐🛜 / ОБХОД
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 4-4 • 🌐🛜 / ОБХОД
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 1-4 • V2 / МОСТ
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=x5.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 2-4 • V2 / МОСТ
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 3-4 • V2 / МОСТ
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 4-4 • V2 / МОСТ
 
 security=reality&mode=gun&serviceName=
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v151g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v152g4/5b26
