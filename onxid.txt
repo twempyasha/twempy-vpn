@@ -3,7 +3,7 @@
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
 #announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис / 🌐 Открытая сеть — наш выбор / 🤖 Бот в TG: @freepyvpnbot / 📨 Наш канал в TG: @freepyvpn
-#subscription-userinfo: upload=0; download=0; total=999999999999999
+#subscription-userinfo: upload=0; download=0; total=99999999999999999999999999
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴├⬇️ Обычный VPN / 🌐
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#├⬇️ Модуль 1
@@ -21,4 +21,4 @@ vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&
 vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#├⚡ 4-4 • 🌐🛜 / ОБХОД
 
 security=reality&mode=gun&serviceName=
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v150g4/5b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴└⚙️ v151g4/5b26
