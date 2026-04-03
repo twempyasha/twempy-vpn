@@ -1,8 +1,10 @@
+#profile-update-interval: 1
 #profile-title: ⚡ FREEPYPRIME
 #profile-web-page-url: https://t.me/freepyvpn
 #support-url: https://t.me/twempy
 #announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис / 🌐 Свободный интернет — наш выбор! / 🤖 Бот в TG: @freepyvpnbot / 📨 Наш канал в TG: @freepyvpn / 🎟️ Подписка "FREEPY PRIME"
 #subscription-userinfo: upload=0; download=0; total=0
+#sub-info-text: писька тест
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#💽 Статус сервера "Активен" 
 
