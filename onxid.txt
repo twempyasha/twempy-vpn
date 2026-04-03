@@ -4,18 +4,20 @@
 #announce: ✨ FREEPY PRIME — мощнейший бесплатный сервис / 🌐 Свободный интернет — наш выбор! / 🤖 Бот в TG: @freepyvpnbot / 📨 Наш канал в TG: @freepyvpn / 🎟️ Подписка "FREEPY PRIME"
 #subscription-userinfo: upload=0; download=0; total=0
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#💽 Статус сервера "Активен"
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#⚙️ v165g5/6b26
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#💽 Статус сервера "Активен" 
 
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪⚡ ГЕРМАНИЯ V2 
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱⚡ НИДЕРЛАНДЫ V2
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬⚡ СИНГАПУР V2
-vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦⚡ КАНАДА V2
-vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&type=tcp&flow=#🇸🇪⚡ ШВЕЦИЯ V1
-vless://4aee5cc4-bbae-0006-93d4-eb6aace38ff9@cloud.quattro-tech.ru:443?encryption=none&security=reality&sni=cloud.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇪🇸⚡ ИСПАНИЯ V1
-vless://4aee5cc4-bbae-411e-93d4-eb6aace38ff9@uk.quattro-tech.ru:443?encryption=none&security=reality&sni=uk.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇬🇧⚡ ВЕЛИКОБРИТАНИЯ V1
-vless://4aee5cc4-bbae-411e-93d4-eb6aace38ff9@109.69.218.48:443?encryption=none&security=reality&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&flow=#🇧🇪⚡ БЕЛЬГИЯ V1
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #1 МОСТ V2
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=x5.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #2 МОСТ V2
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #3 / МОСТ V2
-vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@84.201.172.189:20103?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #4 / МОСТ V2
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@45.138.51.206:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇩🇪⚡ ГЕРМАНИЯ
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@89.125.187.95:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇳🇱⚡ НИДЕРЛАНДЫ
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@2.57.241.211:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇬⚡ СИНГАПУР
+vless://d9192a19-8c80-492e-aa96-13756485eaa7@185.141.216.42:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇨🇦⚡ КАНАДА
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?encryption=none&security=tls&sni=tar.alabama-tigr.info&fp=chrome&allowInsecure=1&type=ws&host=tar.alabama-tigr.info&path=%2Flove#🇺🇸⚡ США
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84&type=tcp&headerType=none#🇧🇻⚡ НОРВЕГИЯ
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#🇫🇷⚡ ФРАНЦИЯ
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@85.159.229.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇮🇪⚡ ИРЛАНДИЯ
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@62.60.233.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my.oversecure.pro&fp=chrome&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426&type=tcp&headerType=none#🇹🇷⚡ ТУРЦИЯ
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none#🇯🇵⚡ ЯПОНИЯ
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@hb-by1.cdns.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=b0cf517d6f2d7b98&spx=%2F&type=tcp&headerType=none#🇧🇾⚡ БЕЛАРУСЬ
+
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #1 МОСТ
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=x5.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #2 МОСТ
+vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #3 МОСТ
