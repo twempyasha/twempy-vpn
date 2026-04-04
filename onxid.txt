@@ -23,7 +23,6 @@ vless://c67f81df-34e8-4cb3-ab43-599585775fa9@hb-by1.cdns.su:443?encryption=none&
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?encryption=none&security=tls&sni=lirpeuijr.chinav.indevs.in&fp=chrome&type=ws&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#🇮🇳⚡ ИНДИЯ
 vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af&type=tcp&headerType=none#🇪🇪⚡ ЭСТОНИЯ
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.80.205.244:8443?encryption=none&security=tls&sni=snippet.fgfw.ccwu.cc&fp=random&alpn=http%2F1.1&type=ws&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#🇮🇱⚡ ИЗРАИЛЬ
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&type=ws&path=%2F&host=#🇺🇦⚡ УКРАИНА
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.224:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold.speedload.online&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#🇲🇩⚡ МОЛДОВА
 
 vless://22f66518-4df8-4d1d-8e82-368ca9babaf6@78.159.245.89:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇷🇺⚡ #1 МОСТ
