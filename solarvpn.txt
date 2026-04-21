@@ -1,8 +1,7 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaraflow
-#announce: 
-↖️ купить подписку / телеграм канал ↗️
+#announce: ↖️ купить подписку / телеграм канал ↗️
 👥 наш ускоритель — интернет без тормозов
 subscription-userinfo: upload=0; download=0; total=0
 
