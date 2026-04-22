@@ -1,8 +1,8 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#announce: ↖️ купить подписку                                телеграм канал ↗️                                           🔃 Плохо работает поменяй запрет или обнови подписку
-#subscription-userinfo: upload=0; download=1631; total=0
+#announce: ↖️ купить подписку                                телеграм канал ↗️                                               🔃 Плохо работает поменяй запрет или обнови подписку
+#subscription-userinfo: upload=0; download=161173; total=0
 
 
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.127.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴1️⃣ анти zапрет
