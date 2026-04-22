@@ -1,10 +1,8 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#announce: ↖️ купить подписку                                телеграм канал ↗️                                                             🔃 Плохо работает - поменяй / обнови сервер
-#subscription-userinfo: upload=0; download=1677473; total=0
+#announce: ↖️ купить подписку                                телеграм канал ↗️                                                             🔢 @solaranow
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none&type=tcp&security=none#🇸🇴ℹ️ @solaranow
 vless://f376a4c4-8943-4c3f-ab7e-8c943694ff77@yt-noads.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇸🇴1️⃣ Youtube без рекламы
 vless://f376a4c4-8943-4c3f-ab7e-8c943694ff77@fi-g.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇸🇴2️⃣ Финляндия
 vless://f376a4c4-8943-4c3f-ab7e-8c943694ff77@de.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇸🇴3️⃣ Германия
