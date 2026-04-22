@@ -1,7 +1,7 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#announce: ↖️ купить подписку                                телеграм канал ↗️                                                             🔢 @solaranow
+#announce: ↖️ купить подписку / @solaranow / телеграм канал ↗️                                                             
 
 vless://f376a4c4-8943-4c3f-ab7e-8c943694ff77@yt-noads.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇸🇴1️⃣ Youtube без рекламы
 vless://f376a4c4-8943-4c3f-ab7e-8c943694ff77@fi-g.sbrf-cdn342.ru:443?type=tcp&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇸🇴2️⃣ Финляндия
