@@ -1,7 +1,7 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#announce: ↖️ купить подписку                                телеграм канал ↗️                                                             ✉️ @solarnow 🔃 Плохо работает - смени сервер
+#announce: ↖️ купить подписку                                телеграм канал ↗️                                                             🔃 Плохо работает - поменяй / обнови сервер
 #subscription-userinfo: upload=0; download=1677473; total=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none&type=tcp&security=none#🇸🇴ℹ️ @solaranow
