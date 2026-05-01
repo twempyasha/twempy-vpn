@@ -5,14 +5,14 @@
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ купить подписку / @solaranow / телеграм канал ↗️                                                             
 
-vless://00000000-0000-0000-0000-000000000000@example.com:0?encryption=none&security=none&type=tcp&headerType=none#🇸🇴 Обычный vpn
+vless://00000000-0000-0000-0000-000000000000@example.com:0?encryption=none&security=none&type=tcp&headerType=none#🇸🇴 ⬇ Обычный vpn ⬇
 vless://f0654db3-6940-4f16-81ad-856d55bf279c@85.93.10.107:443?security=reality&encryption=none&pbk=jxFvY1W8mS7K8aKMJIsJwbA0MyO4WujHiOVUO-H4T2c&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=currency.rest#🇸🇴 YouTube без рекламы
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Нидерланды
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.127.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 США
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.101.155:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Германия
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.109.93:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Великобритания
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.100.149:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Швейцария
-vless://00000000-0000-0000-0000-000000000000@example.com:0?encryption=none&security=none&type=tcp&headerType=none#🇸🇴 Моб. интернет
+vless://00000000-0000-0000-0000-000000000000@example.com:0?encryption=none&security=none&type=tcp&headerType=none#🇸🇴 ⬇ Моб. интернет ⬇
 vless://5e5f1b5a-9496-4e8f-a522-44d3804d8d55@195.58.36.254:8446?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#🇸🇴 Белый список
 vless://6bdd3bf2-2b8a-4b0c-b7c7-5a243a7aaeda@109.73.199.48:8446?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#🇸🇴 Белый список
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=cl-de-2.edgeflux.ru#🇸🇴 Белый список
