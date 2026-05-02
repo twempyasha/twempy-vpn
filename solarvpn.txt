@@ -4,6 +4,7 @@
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
 #subscription-userinfo: upload=0; download=0; total=0
+#ad: какаин дешево
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️                                                             
 
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 [LTE мобильная сеть]
