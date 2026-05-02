@@ -5,9 +5,6 @@
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 LTE мобильная сеть #1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?security=reality&encryption=none&echfq=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇸🇴 LTE мобильная сеть #2
-vless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇸🇴 LTE мобильная сеть #3
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 YouTube без рекламы
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Нидерланды
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.101.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Франция
@@ -17,3 +14,6 @@ vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.109.93:443?encryption=none&fl
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.112.224:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Финляндия
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.117.163:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Польша
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.100.149:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Швейцария
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 Белые списки #1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?security=reality&encryption=none&echfq=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇸🇴 Белые списки #2
+vless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇸🇴 Белые списки #3
