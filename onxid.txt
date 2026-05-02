@@ -6,3 +6,5 @@
 #subscription-userinfo: upload=0; download=0; total=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#💽 Статус сервера "Выключен" 
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#☄️ solar vpn
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🔗 https://t.me/solaranow
