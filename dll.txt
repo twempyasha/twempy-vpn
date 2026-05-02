@@ -1,14 +1,9 @@
 #profile-update-interval: 1
-#profile-title: ☄️ solar - ускоритель
+#profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
 #subscription-userinfo: upload=0; download=0; total=107374182400
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
-#sub-info-text: Тут могла быть ваша реклама
-#sub-info-color: blue
-#sub-info-button-text: Приобрести
-#sub-info-button-link: https://t.me/twempy
-
 
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 [LTE мобильная сеть]
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 [YouTube без рекламы]
