@@ -2,7 +2,7 @@
 #profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#subscription-userinfo: upload=0; download=0; total=107374182400
+#subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?security=none&type=tcp#🇸🇴 Тут могла быть ваша реклама
