@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
 #subscription-userinfo: upload=0; download=0; total=0
-#announce: ↖️ купить подписку / @solaranow / телеграм канал ↗️                                                             
+#announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️                                                             
 
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 [LTE мобильная сеть]
 vless://8d3b2394-2d2b-4e85-b84d-9f6f3076c60c@152.53.122.143:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#🇸🇴 [YouTube без рекламы]
