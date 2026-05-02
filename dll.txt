@@ -1,15 +1,14 @@
 #profile-update-interval: 1
 #profile-title: ☄️ solar - ускоритель
-#hide-settings: 1
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
-#subscription-userinfo: upload=0; download=0; total=0
-#announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️                                                             
+#subscription-userinfo: upload=0; download=0; total=107374182400
+#announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 #sub-info-text: Тут могла быть ваша реклама
 #sub-info-color: blue
 #sub-info-button-text: Приобрести
-#sub-info-buttpn-link: https://t.me/twempy
- 
+#sub-info-button-link: https://t.me/twempy
+
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴 [LTE мобильная сеть]
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 [YouTube без рекламы]
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Нидерланды
