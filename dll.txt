@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: solar vpn
+#profile-title: ☄️ solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
 #support-url: https://t.me/solaranow
 #subscription-userinfo: upload=0; download=0; total=0
