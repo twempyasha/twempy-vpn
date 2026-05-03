@@ -4,3 +4,5 @@
 #support-url: https://t.me/solaranow
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
+
+https://raw.githubusercontent.com/twempyasha/twempy-vpn/main/dll-assets.txt
