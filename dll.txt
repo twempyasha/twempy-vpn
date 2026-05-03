@@ -5,17 +5,49 @@
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
-vless://00000000-0000-0000-0000-000000000000@example.com:0?security=none&encryption=none&type=tcp&headerType=none&sni=#🇸🇴⬇ Обычнык ⬇
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 [YOUTUBE без рекламы]
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇳🇱 Нидерланды
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇫🇷 Франция
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.124:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇨🇭 Швейцария
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@45.131.214.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇪🇪 Эстония
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇫🇮 Финляндия
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇩🇪 Германия
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@45.131.214.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇺🇸 США
-vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇬🇧 Великобритания
+{
+  "remarks": "📜 АВТО-ВЫБОР: Белые списки",
+  "dns": { "servers": ["1.1.1.1", "1.0.0.1"], "queryStrategy": "UseIP" },
+  "log": { "loglevel": "warning", "dnsLog": false },
+  "inbounds": [
+    { "tag": "socks-in", "protocol": "socks", "listen": "127.0.0.1", "port": 10808, "settings": { "udp": true, "auth": "noauth" }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] } },
+    { "tag": "http-in", "protocol": "http", "listen": "127.0.0.1", "port": 10809, "settings": { "allowTransparent": false }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] } }
+  ],
+  "outbounds": [
+    { "tag": "🇸🇴 Белые списки #1", "protocol": "vless", "settings": { "vnext": [{ "address": "fastcon-tgg.harknmav.fun", "port": 443, "users": [{ "id": "50b95deb-6394-46c5-b88a-583e5b3ca7ee", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "max.ru", "fingerprint": "chrome", "publicKey": "PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4", "shortId": "f69d7af2d5fc5e0c" } } },
+    { "tag": "🇸🇴 Белые списки #2", "protocol": "vless", "settings": { "vnext": [{ "address": "109.120.188.50", "port": 993, "users": [{ "id": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "max.ru", "fingerprint": "qq", "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4", "shortId": "ad7dab462a323acb" } } },
+    { "tag": "🇸🇴 Белые списки #3", "protocol": "vless", "settings": { "vnext": [{ "address": "217.16.26.248", "port": 2083, "users": [{ "id": "c9e018d1-6a0f-21ee-0e3c-e538590f9526", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "ads.x5.ru", "fingerprint": "chrome", "publicKey": "muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ", "shortId": "7ebf" } } },
+    { "tag": "direct", "protocol": "freedom" },
+    { "tag": "block", "protocol": "blackhole" }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      { "type": "field", "protocol": ["bittorrent"], "outboundTag": "direct" },
+      { "type": "field", "domain": ["regexp:.*\\.ru$", "regexp:.*\\.su$", "regexp:.*\\.xn--p1ai$", "geosite:category-ru"], "outboundTag": "direct" },
+      { "type": "field", "network": "tcp,udp", "balancerTag": "auto-balancer" }
+    ],
+    "balancers": [
+      { "tag": "auto-balancer", "selector": ["🇸🇴 Белые списки #1", "🇸🇴 Белые списки #2", "🇸🇴 Белые списки #3"], "strategy": { "type": "leastPing" } }
+    ]
+  },
+  "burstObservatory": {
+    "subjectSelector": ["🇸🇴 Белые списки #1", "🇸🇴 Белые списки #2", "🇸🇴 Белые списки #3"],
+    "pingConfig": { "timeout": "10s", "interval": "5m", "sampling": 1, "destination": "http://www.google.com/generate_204", "connectivity": "http://connectivitycheck.platform.hicloud.com/generate_204" }
+  }
+}
 
-vless://00000000-0000-0000-0000-000000000000@example.com:0?security=none&encryption=none&type=tcp&headerType=none&sni=#🇸🇴⬇ Белые списки ⬇
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇷🇺 Обход 1
-vless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇷🇺 Обход 2
+техvless://00000000-0000-0000-0000-000000000000@example.com:0?security=none&encryption=none&type=tcp&headerType=none&sni=#🇸🇴⬇ Обычнык ⬇
+техvless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 [YOUTUBE без рекламы]
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇳🇱 Нидерланды
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇫🇷 Франция
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.124:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇨🇭 Швейцария
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@45.131.214.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇪🇪 Эстония
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇫🇮 Финляндия
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@95.85.236.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇩🇪 Германия
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@45.131.214.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇺🇸 США
+техvless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&type=tcp&headerType=none#🇬🇧 Великобритания
+
+техvless://00000000-0000-0000-0000-000000000000@example.com:0?security=none&encryption=none&type=tcp&headerType=none&sni=#🇸🇴⬇ Белые списки ⬇
+техvless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇷🇺 Обход 1
+техvless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇷🇺 Обход 2
