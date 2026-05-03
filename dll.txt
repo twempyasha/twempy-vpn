@@ -1,18 +1,8 @@
-#profile-title: 🛡️ SOLAR PROTECT
+#profile-update-interval: 1
+#profile-title: solar vpn
 #profile-web-page-url: https://t.me/freepyvpnbot
-#announce: ↖️ Полная защита с автовыбором
+#support-url: https://t.me/solaranow
+#subscription-userinfo: upload=0; download=0; total=0
+#announce: получить подписку / @solaranow / телеграм канал
 
-{
-  "remarks": "🛡️ АВТО-ВЫБОР",
-  "outbounds": [
-    { "tag": "🇸🇴 Белые списки #1", "protocol": "vless", "settings": { "vnext": [{ "address": "fastcon-tgg.harknmav.fun", "port": 443, "users": [{ "id": "50b95deb-6394-46c5-b88a-583e5b3ca7ee", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "max.ru", "fingerprint": "chrome", "publicKey": "PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4", "shortId": "f69d7af2d5fc5e0c" } } },
-    { "tag": "🇸🇴 Белые списки #2", "protocol": "vless", "settings": { "vnext": [{ "address": "109.120.188.50", "port": 993, "users": [{ "id": "b6ce8a51-19b9-4979-91ba-b4298c26d5fc", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "max.ru", "fingerprint": "qq", "publicKey": "mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4", "shortId": "ad7dab462a323acb" } } },
-    { "tag": "🇸🇴 Белые списки #3", "protocol": "vless", "settings": { "vnext": [{ "address": "217.16.26.248", "port": 2083, "users": [{ "id": "c9e018d1-6a0f-21ee-0e3c-e538590f9526", "encryption": "none", "flow": "xtls-rprx-vision" }] }] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "serverName": "ads.x5.ru", "fingerprint": "chrome", "publicKey": "muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ", "shortId": "7ebf" } } },
-    { "tag": "direct", "protocol": "freedom" }
-  ],
-  "routing": {
-    "balancers": [
-      { "tag": "auto-balancer", "selector": ["🇸🇴 Белые списки #1", "🇸🇴 Белые списки #2", "🇸🇴 Белые списки #3"], "strategy": { "type": "leastPing" } }
-    ]
-  }
-}
+https://raw.githubusercontent.com/twempyasha/twempy-vpn/main/dll-model.json
