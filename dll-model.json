@@ -1,4 +1,4 @@
-profile-title: ☄️ solar vpn
+#profile-title: ☄️ solar vpn
 {
   "remarks": "🇸🇴🏳️ АВТОВЫБОР: белые списки",
   "dns": { "servers": ["1.1.1.1", "1.0.0.1"], "queryStrategy": "UseIP" },
