@@ -6,6 +6,7 @@
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴 YouTube без рекламы
+vless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇸🇴 Авто WiFi
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.118.62:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Нидерланды
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.101.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 Франция
 vless://dacb3f31-8251-47af-a963-8bdb0d9a16b1@5.255.127.64:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95#🇸🇴 США
