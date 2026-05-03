@@ -36,3 +36,4 @@
     "pingConfig": { "timeout": "10s", "interval": "5m", "sampling": 1, "destination": "http://www.google.com/generate_204", "connectivity": "http://connectivitycheck.platform.hicloud.com/generate_204" }
   }
 }
+
