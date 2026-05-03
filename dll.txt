@@ -6,7 +6,7 @@
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
 {
-  "remarks": "📜 АВТО-ВЫБОР: Белые списки",
+  "remarks": "🇸🇴🛡️ АВТО-ВЫБОР: Белые списки",
   "dns": { "servers": ["1.1.1.1", "1.0.0.1"], "queryStrategy": "UseIP" },
   "log": { "loglevel": "warning", "dnsLog": false },
   "inbounds": [
