@@ -19,6 +19,6 @@ vless://e0ce3dad-bde1-4186-872f-e95e481642d9@georg.sbrf-cdn342.ru:443?security=t
 vless://e0ce3dad-bde1-4186-872f-e95e481642d9@at.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=#🇦🇹Австрия
 vless://e0ce3dad-bde1-4186-872f-e95e481642d9@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=#🇪🇪Эстония
 vless://e0ce3dad-bde1-4186-872f-e95e481642d9@it-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇮🇹Италия
-vless://e0ce3dad-bde1-4186-872f-e95e481642d9@swe-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇨🇭Швеция
-vless://e0ce3dad-bde1-4186-872f-e95e481642d9@us-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1#🇺🇲США
+.vless://e0ce3dad-bde1-4186-872f-e95e481642d9@swe-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇨🇭Швеция
+vless://e0ce3dad-bde1-4186-872f-e95e481642d9@us-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1#🇺🇸США
 vless://e0ce3dad-bde1-4186-872f-e95e481642d9@uae.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=http%2F1.1#🇦🇪ОАЭ
