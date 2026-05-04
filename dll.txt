@@ -5,6 +5,8 @@
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: получить подписку / @solaranow / телеграм канал
 
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴🎥 YOUTUBE: без рекламы
+.vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?security=tls&sni=finl9.keepsecured.net&alpn=http%2F1.1&flow=xtls-rprx-vision&type=tcp&encryption=none#🇸🇴🎥 YOUTUBE: без рекламы
+
+vless://e0ce3dad-bde1-4186-872f-e95e481642d9@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴🎥 YOUTUBE: без рекламы
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴🏳️ АВТОВЫБОР: белый список
 vless://c9e018d1-6a0f-21ee-0e3c-e538590f9526@217.16.26.248:2083?security=reality&encryption=none&echfq=none&pbk=muasnZnj1TgX25uDi7PJgQ7ReYtDaq5z0tuoLWKJFQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#🇸🇴🌐 АВТОВЫБОР: локация vpn
