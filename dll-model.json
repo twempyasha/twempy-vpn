@@ -7,10 +7,8 @@
 
 
 .vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴🚧 Тех перерыв
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.254.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.218.153:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.191.222:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇷🇺🌐🌌 YouTube / Без рекламы
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇩🇪🌐🌌 SolarVPN / Быстрый
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fr-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=#🇫🇷🌐🌌 SolarVPN / Быстрый
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@nl-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇳🇱🌐🌌 SolarVPN / Быстрый
+
+
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.254.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.218.153:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.191.222:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇳🇱📡🌌 SolarVPN / Глушилка
