@@ -7,8 +7,8 @@
 
 📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴🚧 Тех перерыв
 
-vless://0945e490-614f-412c-bbbe-b965c1654abd@109.120.191.92:8443?encryption=none&flow=&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79&fp=chrome&type=tcp#🇸🇴🌌 #1 SolarNow |⚡| Для всего 🏳️🌐 
-vless://0945e490-614f-412c-bbbe-b965c1654abd@5.188.143.235:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c&fp=chrome&type=tcp#🇸🇴🌌 #1 SolarNow |⚡| Для всего 🏳️🌐 
+vless://0945e490-614f-412c-bbbe-b965c1654abd@109.120.191.92:8443?encryption=none&flow=&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79&fp=chrome&type=tcp#🇸🇴🌌 #1 АНТИ ZАПРЕТ |⚡| SOLARNOW 🏳️🌐 
+vless://0945e490-614f-412c-bbbe-b965c1654abd@5.188.143.235:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c&fp=chrome&type=tcp#🇸🇴🌌 #2 АНТИ ZАПРЕТ |⚡| SOLARNOW 🏳️🌐 
 
 📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none# 🇸🇴 Обычный VPN
 .vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Россия [Youtube без рекламы]
