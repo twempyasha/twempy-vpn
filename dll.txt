@@ -6,27 +6,13 @@
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
 📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴🚧 Тех перерыв
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴💲AD tgk @SpacemixSMP
 
-vless://0945e490-614f-412c-bbbe-b965c1654abd@109.120.191.92:8443?encryption=none&flow=&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79&fp=chrome&type=tcp#🇸🇴🌌 #1 ОБХОД |⚡| SOLARNOW 🏳️🌐
-vless://0945e490-614f-412c-bbbe-b965c1654abd@5.188.143.235:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c&fp=chrome&type=tcp#🇸🇴🌌 #2 ОБХОД |⚡| SOLARNOW 🏳️🌐
+vless://0945e490-614f-412c-bbbe-b965c1654abd@109.120.191.92:8443?encryption=none&flow=&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79&fp=chrome&type=tcp#🇸🇴🏳️ #1 Обход всего
+vless://0945e490-614f-412c-bbbe-b965c1654abd@5.188.143.235:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c&fp=chrome&type=tcp#🇸🇴🏳️ #2 Обход всего
 
-📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none# 🇸🇴 Обычный VPN
-.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Россия [Youtube без рекламы]
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Финляндия
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Германия
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fr-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=# 🇸🇴 Франция
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@nl-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Нидерланды
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@at.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=# 🇸🇴 Австрия
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=# 🇸🇴 Эстония
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@it-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Италия
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@swe-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1# 🇸🇴 Швеция
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@georg.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=# 🇸🇴 Грузия
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@us-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1# 🇸🇴 США
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@uae.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=http%2F1.1# 🇸🇴 ОАЭ
-
-📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none# 🇸🇴 Обходы белых списков
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.241.112:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111# 🇸🇴 Обход 1
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@84.201.137.212:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111# 🇸🇴 Обход 2
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.254.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111# 🇸🇴 Обход 3
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.218.153:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111# 🇸🇴 Обход 4
-📴vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@158.160.191.222:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111# 🇸🇴 Обход 5
+vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Россия - Youtube без рекламы
+vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Финляндия
+vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#Германия
+vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@nl-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Нидерланды
+vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@us-bridge.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1#🇸🇴⚡ США 
