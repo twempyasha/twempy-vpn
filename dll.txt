@@ -5,11 +5,11 @@
 #subscription-userinfo: upload=0; download=0; total=0
 #announce: ↖️ получить подписку / @solaranow / телеграм канал ↗️
 
-📴vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴🚧 Тех перерыв
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴🚧 Тех перерыв
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#🇸🇴💲AD tgk @SpacemixSMP
 
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴📡 SolarVPN АВТО: Глушилки
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Россия - Youtube без рекламы
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Финляндия
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Германия
-vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@nl-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Нидерланды
+.vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇸🇴📡 SolarVPN АВТО: Глушилки
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Россия - Youtube без рекламы
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Финляндия
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Германия
+.vless://3e15fbe2-6ec3-490e-a9da-03e9d2dadad7@nl-tx.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇸🇴⚡ Нидерланды
