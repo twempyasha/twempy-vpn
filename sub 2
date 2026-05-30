@@ -1,0 +1,15 @@
+#profile-update-interval: 1
+#profile-title: 💫 atlas+ vless
+#profile-web-page-url: https://t.me/xuxml
+#support-url: https://t.me/twempy
+.#subscription-userinfo: upload=0; download=0; total=0
+#announce: Подписка закончится 30.06.2026 в 13:00 по мск.
+
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@yt-noads.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇷🇺 Youtube | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fi-g.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇫🇮 Финляндия | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇩🇪 Германия | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇫🇷 Франция | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@nl-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇳🇱 Нидерланды | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@pl.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇵🇱 Польша | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@swe-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇸🇪 Швеция | plus | 10гб/с
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@us-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1&type=tcp#🇺🇸 США | plus | 10гб/с
