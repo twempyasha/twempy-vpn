@@ -3,12 +3,13 @@
 #profile-web-page-url: https://t.me/xuxml
 #support-url: https://t.me/twempy
 #subscription-userinfo: upload=0; download=0; total=0
-#announce: PLUS версия
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@yt-noads.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇷🇺 Russia PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fi-g.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇫🇮 Finland PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇩🇪 Germany PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇫🇷 France PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@nl-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇳🇱 Netherlands PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@pl.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇵🇱 Poland PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@swe-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇸🇪 Sweden PLUS @twempy
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@us-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1&type=tcp#🇺🇸 USA PLUS @twempy
+#announce: Айди подписки ""
+
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@yt-noads.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇷🇺 Россия / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fi-g.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇫🇮 Финляндия / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇩🇪 Германия / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇫🇷 Франция / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@nl-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇳🇱 Нидерланды / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@pl.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http%2F1.1&type=tcp#🇵🇱 Польша / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@swe-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&type=tcp#🇸🇪 Швеция / plus / @twempy
+vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@us-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1&type=tcp#🇺🇸 США / plus / @twempy
