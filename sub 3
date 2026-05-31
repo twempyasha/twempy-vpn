@@ -1,4 +1,10 @@
-vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@apple.com:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇪🇺 ⚡Авто | Обычный VPN
+#profile-update-interval: 1
+#profile-title: VPN @twempy
+#profile-web-page-url: https://t.me/xuxml
+#support-url: https://t.me/twempy
+#subscription-userinfo: upload=0; download=0; total=0
+#announce: Оффициальный ВПН от твемпяши уже здесь! Безлимит на все сервера. ВПН всегда бесплатный!
+
 vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@yt-noads.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇷🇺 Россия [Youtube без рекламы]
 vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@fi-g.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇫🇮 Финляндия
 vless://384b1bd7-9e7f-487f-b69f-649bc0092a3b@de.sbrf-cdn342.ru:443?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1#🇩🇪 Германия
